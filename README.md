@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a try for better version of Reddit as it currently looks ugly. I will try to enhance it's performace too. 
 
-Things you may want to cover:
+Used Gems
 
-* Ruby version
+* Devise for Authentication
 
-* System dependencies
+* Acts as Votable for vote tracking
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
